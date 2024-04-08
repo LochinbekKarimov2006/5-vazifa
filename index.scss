@@ -1,0 +1,89 @@
+body{ background-image: url(../img/gas-kvas-com-p-oboi-anime-gorod-zakat-31.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.div0{
+    background-image: url(../img/temple-landscape-Asian-architecture-anime-building-sky-castle-world-atmosphere-mount-scenery-Chinese-architecture-cloud-tree-mountain-landmark-screenshot-1920x1080-px-tourist-attraction-computer-wallpaper-mountain-r.jpg);
+    background-size: cover;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+border-radius: 20px;
+}
+.div1{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+}
+.div2{
+    width: 52%;
+    display: grid;
+    grid-template-columns:auto auto;
+    gap: 10px;
+    button{
+        filter: brightness(100%);
+        color: #000000;
+        font-size: 18px;
+        border-radius: 10px;
+    }
+    button:hover{
+        filter: brightness(70%);
+    }
+    #button1{
+        background-image: url(../img/43bde82b79ab27be30ac6dd1ddc96dff.jpeg);
+        background-size: cover;
+    }
+    #button2{
+        background-image: url(../img/1673339864_gas-kvas-com-p-anime-risunki-gorizontalnie-25.jpg);
+        background-size: cover;
+    }
+    #button3{
+        background-image: url(../img/1673341200_gas-kvas-com-p-risunki-prirodi-anime-10.jpg);
+        background-size: cover;
+    }
+    #button4{
+        background-image: url(../img/1673411141_gas-kvas-com-p-doroga-anime-risunki-30.jpg);
+        background-size: cover;
+    }
+    #button5{
+        background-image: url(../img/3841b25ca6d7f3218099fc94be63bd27.jpg);
+        background-size: cover;
+    }
+    #button6{
+        background-image: url(../img/thumb-1920-1293106.png);
+        background-size: cover;
+    }
+   
+}
+#txt{
+    background-image: url(../img/1612298572_91-p-anime-peizazh-fon-fioletovii-138.jpg);
+    background-size: cover;
+    background-color: #ffffff8a;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    width: 48%;
+}
+#txt::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+.div3{
+    border-radius: 20px;
+    padding: 15px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    input{
+        color: #fff;
+        font-size: 16px;
+        border: 0;
+        background-color: #00000087;
+        height: 30px;
+        border-radius: 8px;
+    }
+}
